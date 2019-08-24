@@ -1,6 +1,5 @@
 # Contributors
-  tevathiyamoiht (https://github.com/tevathiyamohit)
-
+ 
 - [Shanedolin](https://github.com/Shanedolin)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
