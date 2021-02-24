@@ -2,6 +2,7 @@
  
 - [Shanedolin](https://github.com/Shanedolin)
 - [kurt](https://github.com/KurtKudrat)
+  Mohit Tevathiya
 - [Daemon1024](https://github.com/daemon1024)
 - [dexetrous](https://github.com/deXetrous)
 - [Joe-A-D](https://github.com/joe-a-d)
